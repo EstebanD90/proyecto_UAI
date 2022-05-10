@@ -1,0 +1,44 @@
+body {
+    text-align: left;
+    /*margin: 2px solid black;*/
+    border: 1px solid rgb(6, 62, 136);
+    padding: 4px;
+    align-self: center;
+    display: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+}
+
+div {
+    border: 1px solid black;
+}
+
+h1 {
+    color: green;
+    text-align: left;
+    padding-left: 20px;
+}
+
+header {
+    margin: 1px solid black;
+    text-align: left;
+}
+
+.html {
+    color: olivedrab;
+}
+
+
+span {
+    color: orange;
+}
+
+ul {
+    text-align: left;
+    color: cornflowerblue;
+    padding-left: 50px;
+}
+
+p {
+    padding-left: 20px;
+}
